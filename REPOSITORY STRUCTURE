@@ -1,0 +1,17 @@
+calibre-offline-library-system/
+│
+├── README.md
+│
+├── context/
+│   ├── 01_context.md
+│   ├── 02_journey.md
+│   ├── 03_debugging.md
+│   ├── 04_solution.md
+│   └── 05_learnings.md
+│
+├── system/
+│   ├── architecture.md
+│   └── components.md
+│
+└── notes/
+    └── raw_insights.md
