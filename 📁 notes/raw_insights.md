@@ -1,0 +1,6 @@
+- File-based organization becomes inefficient at scale
+- GUI file managers are insufficient for media classification
+- Stability issues often stem from GPU + Qt + desktop environment conflicts
+- Sandboxed applications (Flatpak) improve consistency but require explicit permissions
+- Separation of concerns (library per content type) is more scalable than filtering systems
+- Metadata is more powerful than folder hierarchy for retrieval
